@@ -13,7 +13,7 @@ As passionate Junior Android Developer, I'm dedicated to continuous learning and
 
 <p align="center">
   <!-- Android -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android" alt="Android" width="48" height="48"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/AndroidStudio-Dark.svg" title="Android" alt="Android" width="48" height="48"/>&nbsp;
   <!-- Kotlin -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="48" height="48"/>&nbsp;
   <!-- Java -->
