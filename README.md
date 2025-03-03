@@ -74,9 +74,6 @@
        alt="Redis" width="40" height="40" />
 </p>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
-       alt="Redis" width="40" height="40" style="margin-right: 10px;" />
-</p>
 
 
 
