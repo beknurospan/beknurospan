@@ -49,56 +49,50 @@
 <div>
 
 <h3>Languages and Tools:</h3>
-<div style="display: flex; flex-direction: row; align-items: center;">
+<h3>Backend:</h3>
+
+<h3>Languages and Tools:</h3>
+<p align="left">
   <!-- Java -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
        alt="Java" width="40" height="40" style="margin-right: 10px;" />
-  
+
   <!-- Docker -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
        alt="Docker" width="40" height="40" style="margin-right: 10px;" />
-  
+
   <!-- Kafka -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg"
        alt="Kafka" width="40" height="40" style="margin-right: 10px;" />
-  
+
   <!-- MongoDB -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
        alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
-  
+
   <!-- PostgreSQL -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
        alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
-  
+
   <!-- Spring -->
-  <img 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
        alt="Spring" width="40" height="40" style="margin-right: 10px;" />
 
   <!-- Kubernetes -->
-  <img
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
        alt="Kubernetes" width="40" height="40" style="margin-right: 10px;" />
 
   <!-- Hibernate -->
-  <img
-       src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hibernate-logo.svg"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hibernate-logo.svg"
        alt="Hibernate" width="40" height="40" style="margin-right: 10px;" />
 
   <!-- RabbitMQ -->
-  <img
-       src="https://www.rabbitmq.com/img/RabbitMQ_logo.svg"
+  <img src="https://www.rabbitmq.com/img/RabbitMQ_logo.svg"
        alt="RabbitMQ" width="50" height="40" style="margin-right: 10px;" />
 
   <!-- Redis -->
-  <img
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
        alt="Redis" width="40" height="40" style="margin-right: 10px;" />
-</div>
+</p>
+
 
 
