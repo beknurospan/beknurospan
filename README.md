@@ -1,4 +1,13 @@
 <div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw5enkxbjBnMHBheTJzNmxvaGo2eWo1d3k1Njgwc3Bzendjczl3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" alt="Описание GIF">
+
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
   <h1>Hello My name is Beknur 👨‍💻</h1>
 </div>
 
