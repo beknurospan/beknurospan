@@ -44,7 +44,7 @@
 
 <br>
 <div >
-### Technical Skills
+🛠 Technical Skills
 
 - **Architecture Patterns:** MVVM, MVI, Clean Architecture
 - **Dependency Injection:** Dagger, Hilt
