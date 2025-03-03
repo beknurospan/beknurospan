@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/f784a625-ed24-4b3f-86f7-cb9a652607e4)<div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw5enkxbjBnMHBheTJzNmxvaGo2eWo1d3k1Njgwc3Bzendjczl3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" alt="Описание GIF">
 
 </div>
@@ -44,6 +44,8 @@
 
 <br>
 <div >
+### Technical Skills
+
 - **Architecture Patterns:** MVVM, MVI, Clean Architecture
 - **Dependency Injection:** Dagger, Hilt
 - **Networking:** Retrofit
@@ -52,7 +54,6 @@
 - **UI:** Jetpack Compose, XML
 - **Android Components:** Service, Broadcast Receiver, Content Provider
 - **Version Control:** Git, Git Flow
-
   
 </div>
 
@@ -81,6 +82,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
+
 
 
 
