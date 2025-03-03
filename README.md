@@ -51,7 +51,7 @@
 <h3>Backend:</h3>
 <h3>Languages and Tools:</h3>
 
-<p align="left">
+<div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
   <img width="12" />
@@ -70,7 +70,7 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-</p>
+</div>
 
 
 
