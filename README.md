@@ -48,9 +48,6 @@
 <h3>Backend:</h3>
 <div>
 
-<h3>Backend:</h3>
-<h3>Languages and Tools:</h3>
-
 <div align="left">
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
