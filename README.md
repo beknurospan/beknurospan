@@ -62,13 +62,15 @@
 🛠 Technical Skills
 
 - **Architecture Patterns:** MVVM, MVI, Clean Architecture
-- **Dependency Injection:** Dagger, Hilt
-- **Networking:** Retrofit
-- **Reactive Programming:** RxJava, Coroutines, Flow
-- **Persistence:** Room
+- **Dependency Injection:** Dagger, Hilt, Koin
+- **Networking:** Retrofit , Ktor ,OkHttp
+- **Reactive Programming:** RxJava, Coroutines, Flow ,WorkManager
+- **Storage:** Room, SQLDelight,DataStore,SharedPreferences
 - **UI:** Jetpack Compose, XML
 - **Android Components:** Service, Broadcast Receiver, Content Provider
-- **Version Control:** Git, Git Flow
+- **Version Control:** Git, Git Flow,GitLab
+- **Service:** FireBase Cloud Messaging, FiresStore,Crashlytics,Authentication
+- **Testing:** JUnit, Espresso
   
 </div>
 
