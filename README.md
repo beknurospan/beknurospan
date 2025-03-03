@@ -43,3 +43,38 @@
 </div>
 
 <br>
+
+
+<h3>Backend:</h3>
+<div>
+  <!-- Java -->
+  <img 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+       alt="Java" width="40" height="40" style="margin-right: 10px;" />
+  
+  <!-- Docker -->
+  <img 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
+       alt="Docker" width="40" height="40" style="margin-right: 10px;" />
+  
+  <!-- Kafka -->
+  <img 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" 
+       alt="Kafka" width="40" height="40" style="margin-right: 10px;" />
+  
+  <!-- MongoDB -->
+  <img 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
+       alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
+  
+  <!-- PostgreSQL -->
+  <img 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
+       alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
+  
+  <!-- Spring -->
+  <img 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" 
+       alt="Spring" width="40" height="40" style="margin-right: 10px;" />
+</div>
+
