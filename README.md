@@ -1,4 +1,4 @@
-
+</div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw5enkxbjBnMHBheTJzNmxvaGo2eWo1d3k1Njgwc3Bzendjczl3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" alt="Описание GIF">
 
 </div>
@@ -14,7 +14,7 @@
 
 <div align="justify">
   <p>As passionate Junior Android Developer, I'm dedicated to continuous learning and growth in the dynamic world of mobile development. Eager to contribute my skills in Android Native Development and Multi platform Development etc. while embracing new challenges to expand my expertise. Seeking opportunities to collaborate, innovate, and make a meaningful impact in the realm of Mobile App Development.</p>
-</di
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
