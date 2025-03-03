@@ -83,6 +83,28 @@
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
 
+### My Goal
+
+I am aiming to become a Fullstack Android Developer by expanding my backend skills.  
+Currently, I'm focusing on:
+
+- **Spring Boot**  
+- **Spring Security**  
+- **Spring Data JPA**  
+- **Microservices**  
+- **Kafka**  
+- **RabbitMQ**  
+- **Redis**  
+- **Docker**  
+- **Kubernetes**  
+- **Liquibase**  
+- **Unit Testing**  
+- **GraphQL**  
+- **gRPC**  
+- **PostgreSQL**
+
+By mastering these technologies, I plan to build robust, scalable, and secure server-side solutions that seamlessly integrate with modern Android applications.
+
 
 
 
