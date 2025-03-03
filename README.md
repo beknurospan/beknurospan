@@ -43,6 +43,7 @@
 </div>
 
 <br>
+<div >
 - **Architecture Patterns:** MVVM, MVI, Clean Architecture
 - **Dependency Injection:** Dagger, Hilt
 - **Networking:** Retrofit
@@ -51,7 +52,10 @@
 - **UI:** Jetpack Compose, XML
 - **Android Components:** Service, Broadcast Receiver, Content Provider
 - **Version Control:** Git, Git Flow
-<br>
+
+  
+</div>
+
 <br>
 
 <h3>Backend:</h3>
