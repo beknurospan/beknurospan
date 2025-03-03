@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/5c/2a/6f/5c2a6faeb5cf6db537f6067519aeb2b2.gif" alt="Описание GIF">
+  <img src="https://i.pinimg.com/originals/51/2f/c3/512fc362a4ca2663778db016c2b7f703.gif" alt="Описание GIF">
 
 </div>
 <br>
