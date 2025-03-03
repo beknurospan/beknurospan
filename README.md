@@ -47,8 +47,9 @@
 
 <h3>Backend:</h3>
 <div>
+
 <h3>Languages and Tools:</h3>
-<div style="display: flex; align-items: center;">
+<div style="display: flex; flex-direction: row; align-items: center;">
   <!-- Java -->
   <img 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
@@ -100,5 +101,4 @@
        alt="Redis" width="40" height="40" style="margin-right: 10px;" />
 </div>
 
-</div>
 
