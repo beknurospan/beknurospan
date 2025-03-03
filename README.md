@@ -47,6 +47,8 @@
 
 <h3>Backend:</h3>
 <div>
+<h3>Languages and Tools:</h3>
+<div style="display: flex; align-items: center;">
   <!-- Java -->
   <img 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
@@ -76,5 +78,27 @@
   <img 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" 
        alt="Spring" width="40" height="40" style="margin-right: 10px;" />
+
+  <!-- Kubernetes -->
+  <img
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
+       alt="Kubernetes" width="40" height="40" style="margin-right: 10px;" />
+
+  <!-- Hibernate -->
+  <img
+       src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hibernate-logo.svg"
+       alt="Hibernate" width="40" height="40" style="margin-right: 10px;" />
+
+  <!-- RabbitMQ -->
+  <img
+       src="https://www.rabbitmq.com/img/RabbitMQ_logo.svg"
+       alt="RabbitMQ" width="50" height="40" style="margin-right: 10px;" />
+
+  <!-- Redis -->
+  <img
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+       alt="Redis" width="40" height="40" style="margin-right: 10px;" />
+</div>
+
 </div>
 
