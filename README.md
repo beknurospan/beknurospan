@@ -43,7 +43,16 @@
 </div>
 
 <br>
-
+- **Architecture Patterns:** MVVM, MVI, Clean Architecture
+- **Dependency Injection:** Dagger, Hilt
+- **Networking:** Retrofit
+- **Reactive Programming:** RxJava, Coroutines, Flow
+- **Persistence:** Room
+- **UI:** Jetpack Compose, XML
+- **Android Components:** Service, Broadcast Receiver, Content Provider
+- **Version Control:** Git, Git Flow
+<br>
+<br>
 
 <h3>Backend:</h3>
 <div>
@@ -70,14 +79,7 @@
 </div>
 
 
-- **Architecture Patterns:** MVVM, MVI, Clean Architecture
-- **Dependency Injection:** Dagger, Hilt
-- **Networking:** Retrofit
-- **Reactive Programming:** RxJava, Coroutines, Flow
-- **Persistence:** Room
-- **UI:** Jetpack Compose, XML
-- **Android Components:** Service, Broadcast Receiver, Content Provider
-- **Version Control:** Git, Git Flow
+
 
 
 
