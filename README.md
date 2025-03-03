@@ -56,8 +56,7 @@
        alt="Java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
        alt="Docker" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-plain.svg"
-     alt="Kafka" width="40" height="40" style="margin-right: 10px;" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" 
        alt="MongoDB" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" 
@@ -66,10 +65,7 @@
        alt="Spring" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
        alt="Kubernetes" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Hibernate-logo.svg"
-       alt="Hibernate" width="40" height="40" />
-  <img src="https://www.rabbitmq.com/img/RabbitMQ_logo.svg"
-       alt="RabbitMQ" width="50" height="40" />
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
        alt="Redis" width="40" height="40" />
 </p>
