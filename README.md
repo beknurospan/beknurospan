@@ -52,6 +52,13 @@
 <h3>Languages and Tools:</h3>
 
 <p align="left">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ktor" height="40" alt="ktor logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
        alt="Java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" 
