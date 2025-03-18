@@ -4,7 +4,7 @@
 </div> 
 <br> 
 
-<div align="center">
+<div align="center"> 
   <h1>Hello My name is Beknur 👨‍💻</h1>
 </div>
 
