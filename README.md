@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWozZm9wYzM3b3d1Z2RyNW5xZzhxNnRieDV3OXJucHFiY2wydzEwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" alt="Описание GIF" >
  
-</div>
+</div> 
 <br> 
 
 <div align="center">
