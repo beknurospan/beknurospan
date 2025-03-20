@@ -16,7 +16,7 @@
   <p>As passionate Junior Android Developer, I'm dedicated to continuous learning and growth in the dynamic world of mobile development. Eager to contribute my skills in Android Native Development and Multi platform Development etc. while embracing new challenges to expand my expertise. Seeking opportunities to collaborate, innovate, and make a meaningful impact in the realm of Mobile App Development.</p>
 </div>
 
-<picture>
+<picture> 
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
