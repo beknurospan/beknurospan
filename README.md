@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/77s38NGqFE0AAAAd/gabimaru-hells-paradise.gif" alt="Описание GIF" >
+  <img src="https://i.pinimg.com/originals/4d/d7/df/4dd7dfa6de82fc0080f889bbd7de7178.gif" alt="Описание GIF" >
   
  
 </div>   
