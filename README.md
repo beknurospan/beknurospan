@@ -72,7 +72,7 @@
 - **Version Control:** Git, Git Flow,GitLab
 - **Service:** FireBase Cloud Messaging, FiresStore,Crashlytics,Authentication
 - **Testing:** JUnit, Espresso
-  
+   
 </div>
 
 <br>
