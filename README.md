@@ -108,7 +108,7 @@ Currently, I'm focusing on:
 
 - **Spring Boot**  
 - **Spring Security**  
-- **Spring Data JPA**  
+- **Spring Data **  
 - **Microservices**
 - **Hibernate** 
 - **Kafka**  
