@@ -117,7 +117,7 @@ Currently, I'm focusing on:
 - **Docker**  
 - **Kubernetes**  
 - **Liquibase**  
-- **Unit Testing**  
+- **Unit Testing**   
 - **GraphQL**  
 - **gRPC**  
 - **PostgreSQL**
